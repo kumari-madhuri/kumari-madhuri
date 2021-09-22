@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhuri Kumari.
 - 💞️ I’m interested in Frontend Web development.
-- 🌱 I’m currently learning React JS. 
+- 🌱 I’m currently learning Angular and React JS. 
 - 👀 I’m looking for a job as a Junior web developer.
 - 📫 You can reach me at kumari.madhuri901@gmail.com
 
